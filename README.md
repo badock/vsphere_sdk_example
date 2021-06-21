@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 
 ### Configure credentials
 
-edit `conf/credentials.conf` and configure how your vsphere may be contacted=
+edit `conf/config.yaml` and configure how your vsphere may be contacted=
 
 ```yaml
 vsphere:
