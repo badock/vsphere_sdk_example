@@ -1,0 +1,4 @@
+vsphere:
+  host: 192.168.3.11
+  user: administrator@vsphere.local
+  password: <Put your password here>
